@@ -1,0 +1,25 @@
+{
+  "site_name": "VerificaFácil",
+  "tagline": "Directorio independiente de verificentros y talleres PIREC en el Estado de México",
+  "base_url": "https://dellc504.github.io/verificafacil/",
+  "lang": "es-MX",
+  "data_file": "data/directorio.csv",
+  "data_source_name": "Datos Abiertos del Gobierno del Estado de México (Secretaría del Medio Ambiente)",
+  "data_source_url": "https://datos-abiertos.edomex.gob.mx/index.php/verificentros/csv2",
+  "data_retrieved": "2026-11-18",
+  "contact": {
+    "cta_text": "¿Eres dueño de este verificentro? Destaca tu ficha",
+    "url": "contacto/",
+    "note": "PLACEHOLDER: reemplaza 'url' por el enlace real de contacto (WhatsApp Business o formulario) cuando exista."
+  },
+  "ads": {
+    "enabled": false,
+    "note": "Espacio reservado para anuncios. Mientras enabled=false no se carga ningún script."
+  },
+  "official_links": [
+    {"title": "Citas de verificación Edomex (oficial)", "url": "https://citaverificacion.edomex.gob.mx"},
+    {"title": "Secretaría del Medio Ambiente del Edomex", "url": "https://sma.edomex.gob.mx"},
+    {"title": "Hoy No Circula CDMX (oficial)", "url": "https://hoynocircula.cdmx.gob.mx/"},
+    {"title": "Directorio oficial de verificentros (CSV)", "url": "https://datos-abiertos.edomex.gob.mx/index.php/verificentros/csv2"}
+  ]
+}
